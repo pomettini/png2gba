@@ -1,0 +1,7 @@
+[package]
+name = "png2gba"
+version = "0.1.0"
+authors = ["Giorgio Pomettini <giorgio.pomettini@gmail.com>"]
+
+[dependencies]
+stb_image = "0.2.2"
